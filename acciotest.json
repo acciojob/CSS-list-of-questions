@@ -1,4 +1,4 @@
 {
-    "testRepo": "CSS-list-of-questions-solution",
+    "testRepo": "css-list-of-questions-solution",
     "pathToFile": "cypress/integration/tests/test.spec.js"
 }
